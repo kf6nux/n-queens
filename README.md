@@ -1,2 +1,2 @@
 #n-queens
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+An exercise I used to learn HTML5 web-workers:  n-queens parallel processing.
